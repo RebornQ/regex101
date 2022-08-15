@@ -1,4 +1,4 @@
-# regex101
+# regex101 offline generator
 
 nodejs spy regex101 offline app
 
@@ -7,7 +7,7 @@ run nodejs program generate regex101 website
 ## generate
 
 ```sh
-yarn run make
+yarn run generate
 # or
 node spy101.js
 ```

@@ -5,7 +5,7 @@
   "main": "spy101.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "make": "node spy101.js",
+    "generate": "node spy101.js",
     "server": "python SimpleHttpServer.py"
   },
   "repository": {
